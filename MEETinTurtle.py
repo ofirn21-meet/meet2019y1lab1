@@ -34,11 +34,26 @@ turtle.goto(-200+400,-100+200)
 turtle.penup()
 turtle.goto(-200+300,-100+100)
 turtle.pendown()
-turtle.goto(-200+250,-100+100)
+turtle.goto(-200+400,-100+100)
 turtle.penup()
-turtle.goto(-200+150,-100)
+turtle.goto(-200+300,-100)
 turtle.pendown()
-turtle.goto(-200+250,-100)
+turtle.goto(-200+400,-100)
+#end of let "e"
+turtle.penup()
+turtle.goto(-200+450,-100+200)
+turtle.pendown()
+turtle.goto(-200+550,-100+200)
+turtle.penup()
+turtle.goto(-200+500,-100+200)
+turtle.right(90)
+turtle.pendown()
+turtle.goto(-200+500,-100)
+
+
+
+
+
 
 
 
